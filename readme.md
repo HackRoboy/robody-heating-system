@@ -24,6 +24,8 @@ S(Pmos) - heating wire - GND
 
 4(ESP32) -G(Pmos)
 
+D(Pmos) - 100K - S(Pmos)
+
 
 <!-- # ROS Server
 ##  Install
